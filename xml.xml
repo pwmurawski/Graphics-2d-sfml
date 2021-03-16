@@ -1,0 +1,15 @@
+<Gra>
+	<Gracze Rodzaj="Deska">
+		<Gracz id="29035" imie="PAWEL" Punkty="0"/>
+	</Gracze>
+	<Gracze Rodzaj="Deska">
+		<Gracz id="29176" imie="PAWEL" Punkty="102"/>
+	</Gracze>
+	<Gracze Rodzaj="Deska">
+		<Gracz id="24214" imie="PAWEL" Punkty="2"/>
+	</Gracze>
+	<Gracze Rodzaj="Deska">
+		<Gracz id="31667" imie="PAWEL" Punkty="0"/>
+	</Gracze>
+</Gra>
+
